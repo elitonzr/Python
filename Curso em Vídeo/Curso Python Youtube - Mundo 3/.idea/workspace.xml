@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2de08c82-8472-499a-8bf9-da6a40a9b82d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Z3DJsrMqvXnLv7Iupj6tEdy3ur" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python.Exercício Python #102 - Função para Fatorial">
+    <configuration name="Exercício Python #098 - Função de Contador" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Curso Python Youtube - Mundo 3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso Python #20 - Funções (Parte 1)" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso Python #20 - Funções (Parte 1)/Exercício Python #098 - Função de Contador.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Exercício Python #099 - Função que descobre o maior" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Curso Python Youtube - Mundo 3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso Python #20 - Funções (Parte 1)" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso Python #20 - Funções (Parte 1)/Exercício Python #099 - Função que descobre o maior.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Exercício Python #100 - Funções para sortear e somar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Curso Python Youtube - Mundo 3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso Python #20 - Funções (Parte 1)" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso Python #20 - Funções (Parte 1)/Exercício Python #100 - Funções para sortear e somar.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Exercício Python #101 - Funções para votação" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Curso Python Youtube - Mundo 3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso Python #21 - Funções (Parte 2)" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso Python #21 - Funções (Parte 2)/Exercício Python #101 - Funções para votação.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Exercício Python #102 - Função para Fatorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Curso Python Youtube - Mundo 3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso Python #21 - Funções (Parte 2)" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso Python #21 - Funções (Parte 2)/Exercício Python #102 - Função para Fatorial.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Exercício Python #102 - Função para Fatorial" />
+        <item itemvalue="Python.Exercício Python #101 - Funções para votação" />
+        <item itemvalue="Python.Exercício Python #100 - Funções para sortear e somar" />
+        <item itemvalue="Python.Exercício Python #099 - Função que descobre o maior" />
+        <item itemvalue="Python.Exercício Python #098 - Função de Contador" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2de08c82-8472-499a-8bf9-da6a40a9b82d" name="Default Changelist" comment="" />
+      <created>1584058818828</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584058818828</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="570" y="208" width="1084" height="708" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584059203125">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="570" y="208" width="1084" height="708" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1584059203125" />
+    <state width="919" height="266" key="GridCell.Tab.0.bottom" timestamp="1585610977823">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="919" height="266" key="GridCell.Tab.0.bottom/0.28.1920.1052@0.28.1920.1052" timestamp="1585610977823" />
+    <state width="927" height="278" key="GridCell.Tab.0.bottom/0.28.3600.1052@0.28.3600.1052" timestamp="1584060991540" />
+    <state width="919" height="266" key="GridCell.Tab.0.center" timestamp="1585610977822">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="919" height="266" key="GridCell.Tab.0.center/0.28.1920.1052@0.28.1920.1052" timestamp="1585610977822" />
+    <state width="927" height="278" key="GridCell.Tab.0.center/0.28.3600.1052@0.28.3600.1052" timestamp="1584060991526" />
+    <state width="919" height="266" key="GridCell.Tab.0.left" timestamp="1585610977822">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="919" height="266" key="GridCell.Tab.0.left/0.28.1920.1052@0.28.1920.1052" timestamp="1585610977822" />
+    <state width="927" height="278" key="GridCell.Tab.0.left/0.28.3600.1052@0.28.3600.1052" timestamp="1584060991522" />
+    <state width="919" height="266" key="GridCell.Tab.0.right" timestamp="1585610977822">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="919" height="266" key="GridCell.Tab.0.right/0.28.1920.1052@0.28.1920.1052" timestamp="1585610977822" />
+    <state width="927" height="278" key="GridCell.Tab.0.right/0.28.3600.1052@0.28.3600.1052" timestamp="1584060991537" />
+    <state x="717" y="375" key="com.intellij.ide.util.TipDialog" timestamp="1585502056853">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="717" y="375" key="com.intellij.ide.util.TipDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1585502056853" />
+    <state x="1157" y="468" width="542" height="172" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1585608401864">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="1157" y="468" width="542" height="172" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1585608401864" />
+  </component>
+</project>
